@@ -1,0 +1,8 @@
+{
+  "name": "insta-autolike",
+  "version": "1.0.0",
+  "main": "autolike.js",
+  "dependencies": {
+    "playwright": "^1.53.1"
+  }
+}
